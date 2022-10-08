@@ -1,2 +1,3 @@
-file sujung practice 
-new text create
+last text delete
+and new text create
+haha
