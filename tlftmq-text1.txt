@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 lets crash haha
+=======
+lets crash
+>>>>>>> crash-branch
 and new text create
 haha
